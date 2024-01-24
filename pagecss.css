@@ -1,0 +1,89 @@
+    #logoSeven {
+        width: 200px;
+    }
+    
+    #entete {
+        text-align: center;
+        height: 70px;
+    }
+    
+    .div1 {
+        background-image: url(depositphotos_671149386-stock-photo-successful-trader-man-business-suit.jpg);
+        height: 800px;
+        padding: 200px;
+    }
+    
+    .listeTete {
+         color: aqua;
+        display: grid;
+        grid-template-columns: 20% 25% 20%;
+        padding: 20px;
+    } 
+    
+    .btnTalent {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        background-color: rgb(0, 255, 157);
+        border: none;
+        border-radius: 5px;
+    }
+    
+    .digital {
+        font-size: 350px;
+        color: #fff;
+        margin-top: -270px;
+    }
+    
+    #jobrec {
+        width: 500px;
+    }
+    
+    .hrmaintext {
+        border: rgb(15, 216, 15) solid 2px;
+        width: 50px;
+    }
+    
+    #rondrond {
+        width: 500px;
+    }
+    
+    .reussite {
+        font-size: 350px;
+    }
+    
+    p {
+        opacity: 70%;
+    }
+    
+    @media screen and (max-width: 765px) {
+        .listeTete {
+            display: none;
+        }
+        #logoSeven{
+            display: none;
+        }
+    }
+    
+    .engagement {
+        background-color: rgba(187, 177, 162, 0.473);
+    }
+    
+    #ensemble {
+        margin-top: 150px;
+        margin-left: 50px;
+    }
+    
+    #capture {
+        width: 500px;
+    }
+    
+    #profils {
+        margin-top: 150px;
+    }
+    
+    #footer {
+        height: 100px;
+        padding-top: 35px;
+    }
